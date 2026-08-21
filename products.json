@@ -1,20 +1,121 @@
 [
-  {"id":"s01","image":"03d7989f-2208-4f35-b42e-cf1ed193d21c.jpeg","name":"Saree Collection 01","price":null,"inStock":true},
-  {"id":"s02","image":"0d7c198b-bcd9-46cb-bb60-001325640242.jpeg","name":"Saree Collection 02","price":null,"inStock":true},
-  {"id":"s03","image":"18f593eb-e815-40fb-82aa-c51754bf4b6e.jpeg","name":"Saree Collection 03","price":null,"inStock":true},
-  {"id":"s04","image":"25e1bda3-0c86-49ff-af2f-7577c875950e.jpeg","name":"Saree Collection 04","price":null,"inStock":true},
-  {"id":"s05","image":"44788866-4037-4e5e-9668-65ae5a7a6099.jpeg","name":"Saree Collection 05","price":null,"inStock":true},
-  {"id":"s06","image":"47759725-176F-42B8-93F8-547E922E2674.png","name":"Saree Collection 06","price":null,"inStock":true},
-  {"id":"s07","image":"4e07232c-2a95-4719-b145-ed8e3cf351e5.jpeg","name":"Saree Collection 07","price":null,"inStock":true},
-  {"id":"s08","image":"5147ff8c-abc7-4c22-a7dd-f1bed26552db.jpeg","name":"Saree Collection 08","price":null,"inStock":true},
-  {"id":"s09","image":"56617170-931b-4411-89e1-be4777f54b23.jpeg","name":"Saree Collection 09","price":null,"inStock":true},
-  {"id":"s10","image":"5c24f46b-b5bb-4ad8-9a23-7a0b71fcb0ed.jpeg","name":"Saree Collection 10","price":null,"inStock":true},
-  {"id":"s11","image":"79937d37-a5d5-43f7-ac43-5326dc8c6150.jpeg","name":"Saree Collection 11","price":null,"inStock":true},
-  {"id":"s12","image":"81bb7eb4-12e3-40f9-9b56-bb30dbed31af.jpeg","name":"Saree Collection 12","price":null,"inStock":true},
-  {"id":"s13","image":"9c4b50b2-89f4-44e8-a8bf-328290174637.jpeg","name":"Saree Collection 13","price":null,"inStock":true},
-  {"id":"s14","image":"a80d2593-aee9-4c82-8482-59cdac067f11.jpeg","name":"Saree Collection 14","price":null,"inStock":true},
-  {"id":"s15","image":"a9b005e2-3d95-4208-a0c9-2424c060f66e.jpeg","name":"Saree Collection 15","price":null,"inStock":true},
-  {"id":"s16","image":"b277cd2f-b33c-4538-8f2d-ba1e5c325371.jpeg","name":"Saree Collection 16","price":null,"inStock":true},
-  {"id":"s17","image":"ca48ad9c-ad90-4ff7-8396-d5839fa4e85a.jpeg","name":"Saree Collection 17","price":null,"inStock":true},
-  {"id":"s18","image":"dec6ef7e-0572-4ed2-98b0-048264bdf23f.jpeg","name":"Saree Collection 18","price":null,"inStock":true}
+  {
+    "id": "s01",
+    "image": "03d7989f-2208-4f35-b42e-cf1ed193d21c.jpeg",
+    "name": "Saree Collection 01",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s02",
+    "image": "0d7c198b-bcd9-46cb-bb60-001325640242.jpeg",
+    "name": "Saree Collection 02",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s03",
+    "image": "18f593eb-e815-40fb-82aa-c51754bf4b6e.jpeg",
+    "name": "Saree Collection 03",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s04",
+    "image": "25e1bda3-0c86-49ff-af2f-7577c875950e.jpeg",
+    "name": "Saree Collection 04",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s05",
+    "image": "44788866-4037-4e5e-9668-65ae5a7a6099.jpeg",
+    "name": "Saree Collection 05",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s06",
+    "image": "47759725-176F-42B8-93F8-547E922E2674.png",
+    "name": "Saree Collection 06",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s07",
+    "image": "4e07232c-2a95-4719-b145-ed8e3cf351e5.jpeg",
+    "name": "Saree Collection 07",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s08",
+    "image": "5147ff8c-abc7-4c22-a7dd-f1bed26552db.jpeg",
+    "name": "Saree Collection 08",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s09",
+    "image": "56617170-931b-4411-89e1-be4777f54b23.jpeg",
+    "name": "Saree Collection 09",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s10",
+    "image": "5c24f46b-b5bb-4ad8-9a23-7a0b71fcb0ed.jpeg",
+    "name": "Saree Collection 10",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s11",
+    "image": "79937d37-a5d5-43f7-ac43-5326dc8c6150.jpeg",
+    "name": "Saree Collection 11",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s12",
+    "image": "81bb7eb4-12e3-40f9-9b56-bb30dbed31af.jpeg",
+    "name": "Saree Collection 12",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s13",
+    "image": "9c4b50b2-89f4-44e8-a8bf-328290174637.jpeg",
+    "name": "Saree Collection 13",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s14",
+    "image": "a80d2593-aee9-4c82-8482-59cdac067f11.jpeg",
+    "name": "Saree Collection 14",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s15",
+    "image": "a9b005e2-3d95-4208-a0c9-2424c060f66e.jpeg",
+    "name": "Saree Collection 15",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s16",
+    "image": "b277cd2f-b33c-4538-8f2d-ba1e5c325371.jpeg",
+    "name": "Saree Collection 16",
+    "price": null,
+    "inStock": true
+  },
+  {
+    "id": "s17",
+    "image": "ca48ad9c-ad90-4ff7-8396-d5839fa4e85a.jpeg",
+    "name": "Saree Collection 17",
+    "price": null,
+    "inStock": true
+  }
 ]
