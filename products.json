@@ -117,5 +117,12 @@
     "name": "Saree Collection 17",
     "price": null,
     "inStock": true
+  },
+  {
+    "id": "s1787333564513",
+    "image": "assets/catalog/43f19582-4260-4a54-86b8-27a2ee739e1a.jpeg",
+    "name": "Saree Collection 18",
+    "price": 637,
+    "inStock": true
   }
 ]
