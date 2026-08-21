@@ -1,0 +1,1 @@
+The website logo is maintained in the repository assets folder.
